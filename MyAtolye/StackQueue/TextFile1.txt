@@ -1,0 +1,2 @@
+﻿Stack => LIFO => Last in first-out (Son giren ilk çıkar)
+Queue => FIFO => First in first-out (İlk giren ilk çıkar)
