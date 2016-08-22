@@ -40,6 +40,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VirtualClass", "VirtualClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualClassExp", "VirtualClassExp\VirtualClassExp.csproj", "{3C345757-6901-42BC-BCC4-085F010A087E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Activator", "Activator", "{7BF94963-3059-4EF7-817A-B2F0A4B97D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivatorDynamicInstance", "ActivatorDynamicInstance\ActivatorDynamicInstance.csproj", "{7F1B9EBF-A23A-48A3-8ED6-2A89EE24ACA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +90,10 @@ Global
 		{3C345757-6901-42BC-BCC4-085F010A087E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C345757-6901-42BC-BCC4-085F010A087E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C345757-6901-42BC-BCC4-085F010A087E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1B9EBF-A23A-48A3-8ED6-2A89EE24ACA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1B9EBF-A23A-48A3-8ED6-2A89EE24ACA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1B9EBF-A23A-48A3-8ED6-2A89EE24ACA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1B9EBF-A23A-48A3-8ED6-2A89EE24ACA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,5 +109,6 @@ Global
 		{6B62045D-1A4C-4C29-95BE-80F8F759698D} = {273B3870-51F0-4EDD-B0E4-19B76E3866E2}
 		{81178943-971F-4B4E-8935-4CD8237A2448} = {BE09CD74-6511-400F-AA5F-67D222723528}
 		{3C345757-6901-42BC-BCC4-085F010A087E} = {00237485-5B0D-4164-975E-EC591B33D6F3}
+		{7F1B9EBF-A23A-48A3-8ED6-2A89EE24ACA5} = {7BF94963-3059-4EF7-817A-B2F0A4B97D07}
 	EndGlobalSection
 EndGlobal
